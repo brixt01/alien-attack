@@ -13,4 +13,4 @@ https://github.com/brixt01/alien-attack/assets/109489475/4db29d48-5703-464b-ac22
 
 The code was written entirely by me, Ben Brixton (https://www.linkedin.com/in/ben-brixton/). 
 
-A special thanks to Natalia Jurenczyk for providing the graphics for the game (https://www.linkedin.com/in/natalia-jurenczyk/)
+A special thanks to Natalia Jurenczyk for providing the graphics for the game (https://www.linkedin.com/in/natalia-jurenczyk/).
