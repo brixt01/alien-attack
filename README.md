@@ -1,5 +1,5 @@
 # alien-attack
-This is my first every game written in Python, using the PyGame module. This project taugth me a lot about object oriented programming, and just how useful it can be. 
+This is my first every game written in Python, using the PyGame module. This project has taught me a lot about object oriented programming, and just how useful it can be. 
 
 ## How to play
 
