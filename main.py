@@ -5,8 +5,8 @@ pygame.init()
 import random
 
 pygame.display.set_caption("Shooter game")
-screenWidth = 500
-screenHeight = 700
+screenWidth = 450
+screenHeight = 640
 window = pygame.display.set_mode((screenWidth, screenHeight))
 backgroundImage = pygame.image.load(os.path.join(os.sys.path[0])+"/Assets/Background/background.png")
 fps = 144
@@ -138,7 +138,7 @@ def updateGraphics():
 gaming = True
 while gaming == True:
     # Generation
-    player = playerClass(600, 90, 84)
+    player = playerClass(540, 90, 84)
     projectileList = []
     projectileTimer = 0
     enemyList = []
